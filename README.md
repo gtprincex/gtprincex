@@ -33,7 +33,8 @@ I'm an **Anonymous Hacker**, a master of shadows, and a virtuoso of cybersecurit
 
 <h2 id="current_focus"> Current Focus </h2>
 
-<img width="25%" align='right' src="https://media.giphy.com/media/xT0FQrQ4Z7u7C/giphy.gif" alt="Hacker in motion">
+
+![giphy](https://github.com/user-attachments/assets/01ce8f24-b3d8-4820-958a-47a52c4e4885)
 
 👉 Continuous learning in the domains of Bug Hunting & Forensics.
 
