@@ -72,9 +72,15 @@ I'm an **Anonymous Hacker**, a master of shadows, and a virtuoso of cybersecurit
 </div>
 
 ---
-
 <h2 id="github_activity" align=''>GitHub Activity 👨‍💻</h2>
-<img align="right" width="44%" src="https://i.imgur.com/1ToWEWw.png"/>
+<img align="right" width="44%" src="https://media.giphy.com/media/LG6B3g0U3oYdC/giphy.gif" alt="Animated Hacker"/>
+
+[![Anonymous Hacker's GitHub stats](https://github-readme-stats.vercel.app/api?username=anonymoustips&theme=vision-friendly-dark&&bg_color=00000000&hide_border=true&custom_title=%20)](https://github.com/anonymoustips/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=anonymoustips&theme=dark&card_width=450&bg_color=00000000&hide_border=true)](https://git.io/streak-stats)
+<p align="left"><a href="https://github.com/anonymoustips/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anonymoustips&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" width="450" /></a></p>
+
+<br><br>
+
  
   [![Anonymous Hacker's GitHub stats](https://github-readme-stats.vercel.app/api?username=anonymoustips&theme=vision-friendly-dark&&bg_color=00000000&hide_border=true&custom_title=%20)](https://github.com/anonymoustips/github-readme-stats)
   [![GitHub Streak](https://streak-stats.demolab.com?user=anonymoustips&theme=dark&card_width=450&bg_color=00000000&hide_border=true)](https://git.io/streak-stats) 
