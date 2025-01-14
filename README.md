@@ -1,4 +1,4 @@
-<p align="center"><img src="" width="100%" height="auto"/></p>
+<p align="center"><img src=" https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExajNtOWE2MnJtNWduZW4wbjZ3dDhhc3hzcHdtbGUwMjZ0OXIxM2JlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DqiMTFxiXx0VaVZQbF/giphy.gif " width="100%" height="auto"/></p>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
