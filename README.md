@@ -6,7 +6,7 @@
   </a>
 </div>
 
-<img width="28%" align='right' src="[https://media.giphy.com/media/xTiynL7V1QXvW/giphy.gif]" >
+<img width="28%" align='right' src="[https://media.giphy.com/media/xTiynL7V1QXvW/giphy.gif]" <img /> 
 
 <h2 align="left">
   Shhh! Don't Disturb
