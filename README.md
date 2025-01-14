@@ -6,7 +6,7 @@
   </a>
 </div>
 
-![giphy](https://github.com/user-attachments/assets/93ca0778-671a-45b0-97a9-bc32cc306b9b)
+
 
 <h2 align="left">
   Shhh! Don't Disturb
