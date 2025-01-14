@@ -1,4 +1,4 @@
-<p align="center"><img src="https://giphy.com/gifs/anonymous-hacker-gQ9Z7J7xQ7Zy4" width="100%" height="auto"/></p>
+<p align="center"><img src="https://giphy.com/gifs/david-davidvnun-guy-faux-DqiMTFxiXx0VaVZQbF" width="100%" height="auto"/></p>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
