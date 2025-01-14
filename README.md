@@ -1,4 +1,4 @@
-<p align="center"><img src="![image](https://github.com/user-attachments/assets/f1bfa2f4-bfab-472e-b860-36341bcf660f) " width="100%" height="auto"/></p>
+<p align="center"><img src="" width="100%" height="auto"/></p>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
