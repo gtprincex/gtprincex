@@ -1,9 +1,5 @@
 
 ![giphy](https://github.com/user-attachments/assets/0eba5232-e12e-4d6d-98cc-79d1ab78f89b)
-<p align="center">
-  <img src=" https://giphy.com/gifs/david-davidvnun-guy-faux-DqiMTFxiXx0VaVZQbF " width="100%" height="auto"/>
-</p>
-
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=Unveiling+the+Dark+Side+of+Security" alt="Typing SVG" />
