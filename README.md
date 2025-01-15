@@ -99,8 +99,12 @@ I’m **[`gt-Sec`](https://github.com/gt-sec)**, a passionate cybersecurity rese
 </p>
 
 ![gtprincex's Stats](https://github-readme-stats.vercel.app/api?username=gtprincex&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)
-![gtprincex's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gtprincex&theme=highcontrast&hide_border=false)
+
 ![gtprincex's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gtprincex&theme=highcontrast&show_icons=true&hide_border=false&layout=compact)
+
+
+![gtprincex's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gtprincex&theme=highcontrast&hide_border=false)
+
 
 
 
