@@ -6,7 +6,7 @@
   </a>
 </div>
 
-<img width="28%" align='right' src="https://i.imgur.com/2YXGHiC.jpg">
+
 
 <h2 align="left">
   Greetings, Data Warriors!
