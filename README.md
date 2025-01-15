@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/xrX8KuS.jpg" width="100%" height="auto"/>
+  <img src=" https://giphy.com/gifs/david-davidvnun-guy-faux-DqiMTFxiXx0VaVZQbF " width="100%" height="auto"/>
 </p>
 
 <div align="center">
