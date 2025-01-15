@@ -13,18 +13,18 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h2>
 
-I'm an **Anonymous Hacker**, a master of shadows, and a virtuoso of cybersecurity. With a strong passion for technology and expertise in malware analysis, vulnerability assessment, and bug hunting, my goal is to protect the digital world from potential threats.
+I'm a Part Time Security Researcher, a master of shadows, and a virtuoso of cybersecurity. With a strong passion for technology and expertise in malware analysis, vulnerability assessment, and bug hunting, my goal is to protect the digital world from potential threats.
 
 <details>
   <summary>Learn more about me</summary>
 
-- **Name**: Not Provided
-- **Location**: Unknown
+- **Name**: Austin Chenevare
+- **Location**: United States 
 - **Cybersecurity Specialist** | **Penetration Tester** | **Digital Forensics Analyst**
 - Proficient in hacking techniques, reverse engineering, vulnerability discovery, and social engineering.
 - Focusing on **Web Application Vulnerabilities** and **Malware Analysis**.
 - Currently acquiring knowledge in **Penetration Testing** and **Digital Forensics**.
-- Feel free to reach me at `anonymoustips@proton.me` (not recommended).
+- Feel free to reach me at `gtprince456@proton.me` (not recommended).
 
 </details>
 <br>
