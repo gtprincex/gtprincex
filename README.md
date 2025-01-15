@@ -1,3 +1,5 @@
+
+![giphy](https://github.com/user-attachments/assets/0eba5232-e12e-4d6d-98cc-79d1ab78f89b)
 <p align="center">
   <img src=" https://giphy.com/gifs/david-davidvnun-guy-faux-DqiMTFxiXx0VaVZQbF " width="100%" height="auto"/>
 </p>
@@ -34,7 +36,7 @@ I’m **[`gt-Sec`](https://github.com/gt-sec)**, a passionate cybersecurity rese
 
 <h2 id="current_focus"> Current Focus </h2>
 
-<img width="25%" align='right' src="https://i.imgur.com/w9vUykz.jpg">
+
 
 👉 Expanding knowledge in Bug Bounty Platforms and Penetration Testing.
 
@@ -73,18 +75,7 @@ I’m **[`gt-Sec`](https://github.com/gt-sec)**, a passionate cybersecurity rese
 
 ---
 
-<h2 id="github_statistics" align=''>GitHub Activity 📊</h2>
-<img align="right" width="44%" src="https://i.imgur.com/VoNT2HQ.jpg"/>
 
-[![gt-Sec's GitHub stats](https://github-readme-stats.vercel.app/api?username=gt-sec&theme=vision-friendly-dark&bg_color=00000000&hide_border=true&custom_title=%20)](https://github.com/gt-sec/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=gt-sec&theme=dark&card_width=450&bg_color=00000000&hide_border=true)](https://git.io/streak-stats) 
-<p align="left">
-<a href="https://github.com/gt-sec/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gt-sec&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" width="450" />
-</a>
-</p>
-
-<br><br>
 
 <h2 id="support" align=''> Support My Work ☕</h2>
 
