@@ -76,15 +76,10 @@ I'm **[`gtprince`](https://www.youtube.com/@lostsecc)**, a Security Researcher v
   </div>
 </div>
 
----
+---![gtprincex's Stats](https://github-readme-stats.vercel.app/api?username=gtprincex&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
-<h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
-<img align="right" width="44%" src="https://i.imgur.com/1ToWEWw.png"/>
-
-  [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=gtprincexp&theme=vision-friendly-dark&&bg_color=00000000&hide_border=true&custom_title=%20)](https://github.com/gtprincexp/github-readme-stats)
-  [![GitHub Streak](https://streak-stats.demolab.com?user=gtprincexp&theme=dark&card_width=450&bg_color=00000000&hide_border=true)](https://git.io/streak-stats) 
- <p align="left"><a href="https://github.com/gtprincexp/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gtprincexp&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" width="450"" /></a></p>
-
+![gtprincex's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gtprincex&theme=tokyonight&hide_border=true)
+![gtprincex's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gtprincex&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 <br><br>
 
 <h2 id="donate" align=''> Support⚡️</h2>
