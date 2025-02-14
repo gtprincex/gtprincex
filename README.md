@@ -1,4 +1,5 @@
-![giphy](https://github.com/user-attachments/assets/173e6954-54cb-40ba-921c-47670475324b)
+
+![giphy](https://github.com/user-attachments/assets/c6b80552-ac0f-43b4-ae6b-5a79ea667763)
 
 <div align="center">
   <a href="https://git.io/typing-svg">
