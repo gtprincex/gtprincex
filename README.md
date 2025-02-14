@@ -75,8 +75,8 @@ I'm **[`gtprince`](https://www.youtube.com/@lostsecc)**, a Security Researcher v
       <img src="https://img.shields.io/badge/Wireshark-009639?style=for-the-badge&logo=wireshark&color=000000" alt="Wireshark" />
   </div>
 </div>
-
----![gtprincex's Stats](https://github-readme-stats.vercel.app/api?username=gtprincex&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![gtprincex's Stats](https://github-readme-stats.vercel.app/api?username=gtprincex&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
 ![gtprincex's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gtprincex&theme=tokyonight&hide_border=true)
 ![gtprincex's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gtprincex&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
