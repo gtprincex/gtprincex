@@ -20,9 +20,9 @@ I'm **[`gtprince`](https://www.youtube.com/@lostsecc)**, a Security Researcher v
   <summary>More about me</summary>
 
 - **Name**: GTPRINCE
-- **From**: Russia
+- **From**: Michigan 
 - **Web3 Student** | **Security Researcher** | **Beginner Smart Contract Auditor**
-- I have experience in reverse Engineering and security principles.
+- I have experience in Web2 Security and security principles.
 - **Smart Contract Security**, **Web3 Technologies**
 - Improving knowledge in **Blockchain Vulnerabilities**
 - I’m currently learning **everything Web3**
